@@ -9,7 +9,7 @@ I am currently a 3rd-year 2nd-semester Software Engineering undergraduate at SLI
 * 🌍  I'm based in Malabe, Sri Lanka
 * 🖥️  See my portfolio at [MyPortfolio](http://omesh-portfolio.netlify.app/)
 * ✉️  You can contact me at [sachethana12@gmail.com](mailto:sachethana12@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Angular and Flutter
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm secretly a Superhero from another planet... but don't tell anyone.
 
