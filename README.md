@@ -57,7 +57,7 @@ I am currently a 3rd-year 2nd-semester Software Engineering undergraduate at SLI
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/OmeshSachethana"><img src="https://github-readme-stats.vercel.app/api?username=OmeshSachethana&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="OmeshSachethana's GitHub stats" /></a><br/>
+<a href="http://www.github.com/OmeshSachethana"><img src="https://github-readme-stats.vercel.app/api?username=OmeshSachethana&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="OmeshSachethana's GitHub stats" /></a><br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmeshSachethana&theme=city_light&hide_border=false)<br/><br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmeshSachethana&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
