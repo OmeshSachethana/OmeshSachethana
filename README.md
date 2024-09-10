@@ -4,12 +4,12 @@ Hi 👋 My name is Omesh Sachethana
 Software Engineering Undergraduate
 ----------------------------------
 
-I am currently a 4th-year 1st-semester Software Engineering undergraduate at SLIIT, Sri Lanka. My journey has been filled with exciting projects and valuable experiences that have allowed me to master various technologies and frameworks. With a deep passion for software engineering, I am committed to continuously expanding my knowledge and skills to excel in this field. I am eager to utilize my expertise to contribute to cutting-edge solutions and make a positive impact in the world of technology. Excited to make a meaningful impact in the industry! 🚀
+I am currently a 4th-year 2nd-semester Software Engineering undergraduate at SLIIT, Sri Lanka. My journey has been filled with exciting projects and valuable experiences that have allowed me to master various technologies and frameworks. With a deep passion for software engineering, I am committed to continuously expanding my knowledge and skills to excel in this field. I am eager to utilize my expertise to contribute to cutting-edge solutions and make a positive impact in the world of technology. Excited to make a meaningful impact in the industry! 🚀
 
 * 🌍  I'm based in Malabe, Sri Lanka
 * 🖥️  See my portfolio at [MyPortfolio](http://omesh-portfolio.netlify.app/)
 * ✉️  You can contact me at [sachethana12@gmail.com](mailto:sachethana12@gmail.com)
-* 🧠  I'm learning Angular and Flutter
+* 🧠  I'm learning Flutter and Machine Learning
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm secretly a Superhero from another planet... but don't tell anyone.
 
