@@ -10,7 +10,7 @@ I am currently a 4th-year 2nd-semester Software Engineering undergraduate at SLI
 * 🖥️  See my portfolio at [MyPortfolio](http://omesh-portfolio.netlify.app/)
 * ✉️  You can contact me at [sachethana12@gmail.com](mailto:sachethana12@gmail.com)
 * 🧠  I'm learning Flutter and Machine Learning
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects 
 * ⚡  I'm secretly a Superhero from another planet... but don't tell anyone.
 
 ### Skills
