@@ -62,3 +62,9 @@ I am currently a 4th-year 2nd-semester Software Engineering undergraduate at SLI
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmeshSachethana&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OmeshSachethana)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
